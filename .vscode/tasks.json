@@ -18,6 +18,11 @@
             "regexp": "bundle generation complete"
           }
         }
+      },
+      "label": "npm: start",
+      "group": {
+        "kind": "build",
+        "isDefault": true
       }
     },
     {
